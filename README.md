@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay2760&label=Profile%20views&color=0e75b6&style=flat" alt="ajay2760" /> </p>
 
-- 🌱 I’m currently learning *Flutter,Photoshop*
+- 🌱 I’m currently learning *AI*
 
-- 💬 Ask me about *Android Studio*
+- 💬 Ask me about *React*
 
-- 📫 You can reach out to me via  *[Linkedin](https://www.linkedin.com/mwlite/profile/me?trk=p_mwlite_feed-secondary_nav) and <a href="mailto:srganapathi2003@gmail.com">Gmail</a>*
+- 📫 You can reach out to me via  *[Linkedin](https://www.linkedin.com/in/me/) and <a href="mailto:srganapathi2003@gmail.com">Gmail</a>*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
