@@ -1,6 +1,6 @@
 <img  align="center" alt="Coding" width="950" height="450" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 <h1 align="center">Hello Guys👋, I'm Ganapathi SR</h1>
-<h3 align="center">A passionate Web Designer </h3>
+<h3 align="center">A passionate Developer </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay2760&label=Profile%20views&color=0e75b6&style=flat" alt="ajay2760" /> </p>
